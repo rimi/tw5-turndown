@@ -1,7 +1,7 @@
 caption: Widget: turndown
 created: 20190108131141639
-modified: 20201208125822913
+modified: 20201209090115209
 module-type: widget
 title: $:/plugins/rimir/turndown/widget.js
-tocp.turndown-plugin-parent.ref: #:/wiki/plugins/rimir/turndown/widgets
+tocp.turndown-plugin-parent.ref: #:/p/turndown/#:/widgets
 type: application/javascript

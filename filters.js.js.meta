@@ -1,7 +1,7 @@
 caption: Filters
 created: 20190118083220449
-modified: 20201208125708946
+modified: 20201209085959787
 module-type: filteroperator
 title: $:/plugins/rimir/turndown/filters.js
-tocp.turndown-plugin-parent.ref: #:/wiki/plugins/rimir/turndown/filter
+tocp.turndown-plugin-parent.ref: #:/p/turndown/#:/filter
 type: application/javascript
